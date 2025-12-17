@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaranyaV2005&label=Profile%20views&color=0e75b6&style=flat" alt="SaranyaV2005" /> </p>
 
 About me 💫
-- 🔭 I’m currently pursuing **my UnderGraduate degree at Thiagarajar College of Engineering, Madurai**
+🔭 I’m currently pursuing **my UnderGraduate degree at Thiagarajar College of Engineering, Madurai**
 
-- 🌱 I’m currently learning **Deep learning and css**
+🌱 I’m currently learning **Deep learning and css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
