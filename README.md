@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saranya V</h1>
-<h3 align="center">Learning continuously, growing intentionally</h3>
+<h3 align="center">Learning continuously, Growing intentionally</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaranyaV2005&label=Profile%20views&color=0e75b6&style=flat" alt="SaranyaV2005" /> </p>
 
