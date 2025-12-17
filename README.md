@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaranyaV2005&label=Profile%20views&color=0e75b6&style=flat" alt="SaranyaV2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaranyaV2005" alt="SaranyaV2005" /></a> </p>
-
+About me 💫
 - 🔭 I’m currently pursuing **my UnderGraduate degree at Thiagarajar College of Engineering, Madurai**
 
 - 🌱 I’m currently learning **Deep learning and css**
